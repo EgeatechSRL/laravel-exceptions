@@ -1,6 +1,6 @@
 # The license
 
-Copyright (c) 2020 Guidolin Marco <m.guidolin@egeatech.com>
+Copyright (c) 2021 Guidolin Marco <m.guidolin@egeatech.com>
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
