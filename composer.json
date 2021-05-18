@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Egeatech\\LaravelExceptions\\": "src/"
+            "EgeaTech\\LaravelExceptions\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Egeatech\\LaravelExceptions\\Tests\\": "tests"
+            "EgeaTech\\LaravelExceptions\\Tests\\": "tests"
         }
     },
     "extra": {
