@@ -2,6 +2,12 @@
 
 All notable changes to `LaravelExceptions` will be documented in this file.
 
+## Unreleased
+
+## Version 1.2.0
+### Added
+- Support for rendering errors, according to Laravel `ExceptionHandler` class
+
 ## Version 1.1.1
 ### Fixed
 - Proper PHP support in `composer.json`
