@@ -3,6 +3,8 @@
 All notable changes to `LaravelExceptions` will be documented in this file.
 
 ## Unreleased
+
+## Version 1.2.0
 ### Added
 - Support for rendering errors, according to Laravel `ExceptionHandler` class
 
