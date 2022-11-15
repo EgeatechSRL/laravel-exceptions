@@ -7,7 +7,8 @@ A package to help handling exceptions which may occur in your application.
 
 ## Installation
 
-This package supports Laravel 7 and 8 but requires **at least** PHP 7.4. 
+This package supports Laravel 7, 8 and 9 but requires **at least** PHP 8.0 starting from v2.x. PHP 7.4 is supported
+up to version 1.3.0.
 
 Via Composer
 
@@ -20,7 +21,7 @@ $ composer require egeatech/laravel-exceptions
 During the implementation of the business logic of your application, if you wish to throw an exception
 simply create a new class extending `EgeaTech\LaravelExceptions\Exceptions\ApplicationException`.
 
-After that, create a new translation file inside your `resources/lang/en/exceptions` folder:
+After that, create a new translation file inside your `[resources/]lang/en/exceptions` folder:
 the file must be the snake case version of the exception class name. Keep in mind that at least the 
 English form is required.
 

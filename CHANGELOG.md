@@ -4,6 +4,16 @@ All notable changes to `LaravelExceptions` will be documented in this file.
 
 ## Unreleased
 
+## Version 2.0.0
+
+### Removed
+
+- Support for PHP 7.4
+
+## Updated
+
+- [Laravel Enum](https://github.com/BenSampo/laravel-enum) to v6.x
+
 ## Version 1.3.0
 
 ### Added
