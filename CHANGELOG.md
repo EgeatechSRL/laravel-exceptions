@@ -4,6 +4,12 @@ All notable changes to `LaravelExceptions` will be documented in this file.
 
 ## Unreleased
 
+## Version 3.0.0
+
+### Added
+
+- Support for UP TO Laravel 10.x
+
 ## Version 2.0.0
 
 ### Removed
